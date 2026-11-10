@@ -1,0 +1,4 @@
+data_path: data/raw/transactions.csv
+model_path: models/fraud_model.pkl
+random_state: 42
+fraud_threshold: 0.5
